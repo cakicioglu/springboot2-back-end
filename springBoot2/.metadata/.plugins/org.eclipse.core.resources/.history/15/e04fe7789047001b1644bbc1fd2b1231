@@ -1,0 +1,5 @@
+package com.gkhn.springBoot2.course;
+
+public class Course {
+
+}
